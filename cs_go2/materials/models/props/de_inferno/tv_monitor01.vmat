@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_c17/tv_monitor01_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.400000"
+	"TextureRoughness"		"materials/models/props_c17/tv_monitor01_mask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"plastic"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_c17/tv_monitor01"
+			"$surfaceprop"		"plastic"
+			"$envmap"		"env_cubemap"
+			"$envmaptint"		"[ .4 .4 .4]"
+			"$envmapmask"		"Models/props_c17/tv_monitor01_mask"
+			"$basealphaenvmapmask"		"1"
+		}
+	}
+}

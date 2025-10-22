@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "sk3tch/AHP1024"
+	"$surfaceprop" "metal"
+                "$envmap" "env_cubemap"
+                "$envmaptint" "[.3 .3 .3]"
+                "$envmapcontrast" 0
+
+}

@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_TINT_MASK"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/de_dust/dust_rusty_barrel_color.png"
+	"TextureNormal"	"materials/default/default_normal.tga"
+	"TextureRoughness"	"materials/default/default_7be39f77_rough.png"
+	"TextureTintMask"	"materials/models/props/de_dust/dust_rusty_barrel_tintmask.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/de_dust/dust_rusty_barrel_color_tga_8bb908c2.vtex"
+		"g_tMetalness"	"materials/models/props/de_dust/dust_rusty_barrel_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/default/default_normal_tga_7be39f77.vtex"
+		"g_tTintMask"	"materials/models/props/de_dust/dust_rusty_barrel_tintmask_tga_86cb04c2.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"metal"
+	}
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\furnituremetal001a.vmt"
+}

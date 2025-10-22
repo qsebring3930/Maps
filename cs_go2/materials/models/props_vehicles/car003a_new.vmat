@@ -1,0 +1,40 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_vehicles/car003a_new_color.tga"
+	"TextureNormal"		"materials/models/props_vehicles/car003a_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.300000"
+	"TextureRoughness"		"materials/models/props_vehicles/car003a_normal_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/detail/detailconcrete001a_detail.tga"
+	"g_vDetailTexCoordScale"		"[6.000000 6.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"solidmetal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_vehicles/car003a_new"
+			"$bumpmap"		"Models/props_vehicles/car003a_normal"
+			"$surfaceprop"		"solidmetal"
+			"$envmap"		"env_cubemap"
+			"$normalmapalphaenvmapmask"		"1"
+			"$phong"		"1"
+			"$phongBoost"		"20"
+			"$phongExponent"		"135"
+			"$detail"		"detail\detailconcrete001a"
+			"$detailscale"		"[6 6 6]"
+			"$detailblendfactor"		"1"
+			"$envmaptint"		"[.3 .3 .3]"
+			"$phongalbedotint"		"1"
+			"$phongdisablehalflambert"		"1"
+		}
+	}
+}

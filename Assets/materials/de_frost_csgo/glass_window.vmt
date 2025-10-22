@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture "de_frost_csgo/glass_window"
+$translucent 1
+$nocull 1
+$surfaceprop glass
+$crackmaterial "glass\offwndwb_break_hdr"
+}

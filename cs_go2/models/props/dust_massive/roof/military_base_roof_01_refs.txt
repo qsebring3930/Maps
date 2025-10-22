@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\dust_massive\roof\military_base_roof_01.vmt"
+}

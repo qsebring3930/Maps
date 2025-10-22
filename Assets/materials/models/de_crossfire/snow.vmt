@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/snow"
+	"$surfaceprop" "snow"
+}

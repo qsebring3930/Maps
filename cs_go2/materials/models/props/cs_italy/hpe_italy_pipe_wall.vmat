@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/cs_italy/hpe_italy_pipe_wall_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitGeneric"
+		{
+			"$baseTexture"		"models/props/cs_italy/hpe_italy_pipe_wall"
+			"%keywords"		"cstrike"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

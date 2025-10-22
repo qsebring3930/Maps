@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/prop_frame01"
+	"$surfaceprop" "metalvent"
+}

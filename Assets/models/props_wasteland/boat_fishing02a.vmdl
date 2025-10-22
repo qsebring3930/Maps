@@ -1,0 +1,198 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			
+			{
+				_class = "BoneMarkupList"
+				children = 
+				[
+				]
+				bone_cull_type = "None"
+			},
+			
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					
+					{
+						_class = "RenderMeshFile"
+						name = "boat_fishing02a_bg_body_lod0"
+						filename = "models/props_wasteland/boat_fishing02a_boat_fishing02a_bg_body_lod0.dmx"
+					},
+				]
+			},
+			
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull1.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull2.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull3.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull4.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull5.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull6.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull7.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull8.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull9.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull10.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull11.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull12.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull13.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull14.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull15.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull16.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull17.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull18.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_wasteland/boat_fishing02a_hull19.dmx"
+						surface_prop = "metal"
+						collision_tags = ""
+						name = ""
+					},
+				]
+			},
+		]
+	}
+}

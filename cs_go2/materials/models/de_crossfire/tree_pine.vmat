@@ -1,0 +1,31 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/de_crossfire/tree_pine_color.tga"
+	"TextureNormal"		"materials/models/de_crossfire/tree_pine_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.800000"
+	"TextureRoughness"		"materials/models/de_crossfire/tree_pine_normal_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTranslucency"		"materials/models/de_crossfire/tree_pine_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.200000"
+	"F_RENDER_BACKFACES"		"1"
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models/de_crossfire/Tree_pine"
+			"$alphatest"		"1"
+			"$alphatestreference"		"0.200000"
+			"$nocull"		"1"
+			"$bumpmap"		"models/de_crossfire/tree_pine_normal"
+			"$envmap"		"env_cubemap"
+			"$normalmapalphaenvmapmask"		"1"
+			"$envmaptint"		"[0.8 0.8 0.8]"
+			"$envmapcontrast"		"1"
+			"$model"		"1"
+		}
+	}
+}

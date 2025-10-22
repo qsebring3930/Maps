@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "props_bastion/binary"
+	$translucent 1 
+	$decal 1
+}

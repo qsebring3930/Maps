@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/interiortile01"
+	"$surfaceprop" "tile"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "snowcapped/interiortile01_spec"
+}

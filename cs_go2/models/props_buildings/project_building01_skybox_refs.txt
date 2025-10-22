@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_buildings\project_building01.vmt"
+}

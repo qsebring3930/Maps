@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "morningstar/mor_marble01"
+	"$envmapmask" "morningstar/mor_marble01_spec"
+	
+	"$envmap" "env_cubemap"
+	
+	"$surfaceprop" "concrete"
+}

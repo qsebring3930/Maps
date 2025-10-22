@@ -1,0 +1,235 @@
+"outside"
+{
+
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"pitch"		"100"
+		"wave"	"crossfire/Wind1"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"pitch"		"100"
+		"wave"	"crossfire/Osnow.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"	"crossfire/Owind.wav"
+	}
+
+}
+
+"barn"
+{
+
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"100"
+		"wave"	"crossfire/Wind1"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"pitch"		"100"
+		"wave"	"crossfire/BSnow.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"pitch"		"100"
+		"wave"	"crossfire/Bwind2.wav"
+	}
+"playrandom"
+	{
+		"time"		"8,15"
+		"volume"	"1.5"
+		"pitch"		"80,110"
+
+		"rndwave"
+		{
+			"wave"	"crossfire/gust1.mp3"
+			"wave"	"crossfire/gust2.mp3"
+			"wave"	"crossfire/gust3.mp3"
+		}
+	}
+
+
+}
+
+"redroom"
+{
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"	"crossfire/abandoned_room.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase2.wav"
+	}
+	"playrandom"
+	{
+		"time"		"8,15"
+		"volume"	"1.4,2"
+		"pitch"		"80,110"
+
+		"rndwave"
+		{
+			"wave"	"crossfire/gust1.mp3"
+			"wave"	"crossfire/gust2.mp3"
+			"wave"	"crossfire/gust3.mp3"
+		}
+	}
+
+}
+
+"inside"
+{
+
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase2.wav"
+	}
+	"playrandom"
+	{
+		"time"		"8,15"
+		"volume"	"1.4,2"
+		"pitch"		"80,110"
+
+		"rndwave"
+		{
+			"wave"	"crossfire/gust1.mp3"
+			"wave"	"crossfire/gust2.mp3"
+			"wave"	"crossfire/gust3.mp3"
+		}
+	}
+}
+
+"bombsiteB"
+
+{
+		"playlooping"
+	{
+		"volume"	"0.4"
+		"pitch"		"100"
+		"wave"	"crossfire/operationroom.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase2.wav"
+	}
+}
+
+
+"prebombsiteB"
+
+{
+		"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"100"
+		"wave"	"crossfire/operationroom.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase2.wav"
+	}
+	"playrandom"
+	{
+		"time"		"8,15"
+		"volume"	"1.4,2"
+		"pitch"		"90,110"
+
+		"rndwave"
+		{
+			"wave"	"crossfire/gust1.mp3"
+			"wave"	"crossfire/gust2.mp3"
+			"wave"	"crossfire/gust3.mp3"
+		}
+	}
+}
+
+"vents"
+
+{
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"100"
+		"wave"	"crossfire/operationroom.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.1"
+		"pitch"		"100"
+		"wave"	"crossfire/vents.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase.wav"
+	}
+		"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"	"crossfire/Ibase2.wav"
+	}
+	"playrandom"
+	{
+		"time"		"8,15"
+		"volume"	"1.4,2"
+		"pitch"		"80,110"
+
+		"rndwave"
+		{
+			"wave"	"crossfire/gust1.mp3"
+			"wave"	"crossfire/gust2.mp3"
+			"wave"	"crossfire/gust3.mp3"
+		}
+	}
+}
+
+

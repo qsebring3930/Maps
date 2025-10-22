@@ -1,0 +1,594 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 500.0
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_0_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_0_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_1_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_1_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_2_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_2_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_3_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_3_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_4_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_4_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_5_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_5_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_6_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_6_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_7_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_7_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_8_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_8_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_9_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_9_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_10_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_10_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_11_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_11_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_12_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_12_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_13_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_13_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_14_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_14_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_15_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_15_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_16_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_16_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_17_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_17_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_18_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_18_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "truck_nuke_phy_19_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/truck_nuke_refs/phys/truck_nuke_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"truck_nuke_phy_19_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "truck_nuke_bg_body_lod0"
+						filename = "/models/props/de_nuke/truck_nuke_refs/mesh/truck_nuke_bg_body_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

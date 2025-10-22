@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ground/snow01"
+	"$basetexture2" "nature/dirtleaves01"
+	"$surfaceprop" "snow"
+}

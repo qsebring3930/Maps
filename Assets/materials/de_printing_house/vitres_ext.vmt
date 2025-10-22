@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$basetexture "de_printing_house\vitres_ext"
+$envmap env_cubemap
+$envmapmask "de_nuke\nukwindowa_ref"
+$surfaceprop glass
+$envmaptint "[ 0.5 0.5 0.5 ]"
+"$envmapcontrast" "0.4"
+"$envmapsaturation" "0.4"
+}

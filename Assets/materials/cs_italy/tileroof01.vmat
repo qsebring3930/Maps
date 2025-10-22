@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/cs_italy/tileroof01_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/cs_italy/tileroof01_normal.png"
+	"TextureLayer1Roughness"	"materials/cs_italy/tileroof01_1708d409_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/cs_italy/tileroof01_color_tga_aee96986.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/cs_italy/tileroof01_normal_tga_1708d409.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"tile"
+	}
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "props_bastion/tex_AusfJ_SH_DIFFUSE"
+	$surfaceprop Metal
+	$alphatest 1
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,32 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"Attributes"
+	{
+		"mapbuilder.passbullets"		"1"
+	}
+	"TextureLayer1Color"		"materials/metal/metaltruss022a_color.tga"
+	"TextureLayer1Translucency"		"materials/metal/metaltruss022a_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.500000"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$alphatest"		"1"
+			"$basetexture"		"Metal/metaltruss022a"
+			"$surfaceprop"		"metal"
+			"%compilepassbullets"		"1"
+			"%keywords"		"c17industrial,wasteland"
+		}
+	}
+}

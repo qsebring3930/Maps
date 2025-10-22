@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/de_printing_house/printing_skysphere"
+	"$translucent" 1
+	"$selfillum" "1"
+	"$nofog" "1"
+}

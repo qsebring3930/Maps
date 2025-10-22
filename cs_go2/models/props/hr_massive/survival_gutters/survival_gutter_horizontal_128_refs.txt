@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_massive\survival_gutters\survival_gutters_color.vmt"
+}

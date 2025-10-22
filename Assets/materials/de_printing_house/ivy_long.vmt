@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_printing_house/ivy_long"
+	"$surfaceprop" "grass"
+	"%keywords" "de_printing_house"
+	"$decal" 1
+	"$decalscale" 0.5
+	"$translucent" 1
+}

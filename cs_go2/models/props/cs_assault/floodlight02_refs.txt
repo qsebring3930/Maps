@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\floodlight03.vmt"
+	"file"	"materials\models\props\cs_assault\floodlight03_on.vmt"
+}

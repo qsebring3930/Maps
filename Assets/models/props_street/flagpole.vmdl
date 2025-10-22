@@ -1,0 +1,472 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			
+			{
+				_class = "BoneMarkupList"
+				children = 
+				[
+				]
+				bone_cull_type = "None"
+			},
+			
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					
+					{
+						_class = "RenderMeshFile"
+						name = "flagpole_bg_body_lod0"
+						filename = "models/props_street/flagpole_flagpole_bg_body_lod0.dmx"
+					},
+				]
+			},
+			
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					
+					{
+						_class = "WeightList"
+						name = "bonemask_default"
+						weights = 
+						[
+							{
+								bone = "scene_root"
+								weight = 1.000000
+							},
+						]
+					},
+				]
+			},
+			
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					
+					{
+						_class = "AnimFile"
+						name = "@idle"
+						source_filename = "models/props_street/@idle.dmx"
+						fade_in_time = 0.200000
+						fade_out_time = 0.200000
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = true
+					},
+					
+					{
+						_class = "AnimFile"
+						name = "@idle_0"
+						source_filename = "models/props_street/@idle_0.dmx"
+						fade_in_time = 0.200000
+						fade_out_time = 0.200000
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+					},
+				]
+			},
+			
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_street/flagpole_hull.dmx"
+						surface_prop = "metalvent"
+						collision_tags = ""
+						name = ""
+					},
+				]
+			},
+			
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-4.416296,
+									-472.613100,
+									-5.275578,
+								]
+								hitbox_maxs = 
+								[
+									6.463770,
+									53.140750,
+									5.548589,
+								]
+								name = "bone_flagpole"
+								parent_bone = "bone_flagpole"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-2.732870,
+									-40.763480,
+									-2.377517,
+								]
+								hitbox_maxs = 
+								[
+									3.138035,
+									28.697620,
+									37.629950,
+								]
+								name = "bonea"
+								parent_bone = "bonea"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-2.732870,
+									-41.539940,
+									-32.016010,
+								]
+								hitbox_maxs = 
+								[
+									4.463546,
+									30.156090,
+									35.085380,
+								]
+								name = "bonea1"
+								parent_bone = "bonea1"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-2.732870,
+									-40.763500,
+									-44.236980,
+								]
+								hitbox_maxs = 
+								[
+									4.463546,
+									32.081360,
+									30.226870,
+								]
+								name = "bonea2"
+								parent_bone = "bonea2"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-0.000000,
+									-36.941170,
+									-33.725340,
+								]
+								hitbox_maxs = 
+								[
+									5.196016,
+									32.081360,
+									27.555060,
+								]
+								name = "bonea3"
+								parent_bone = "bonea3"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									0.000000,
+									-36.941160,
+									-32.296050,
+								]
+								hitbox_maxs = 
+								[
+									5.507283,
+									32.081380,
+									30.742120,
+								]
+								name = "bonea4"
+								parent_bone = "bonea4"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									-0.000000,
+									-39.445800,
+									-27.743050,
+								]
+								hitbox_maxs = 
+								[
+									7.526353,
+									31.569480,
+									23.495350,
+								]
+								name = "bonea5"
+								parent_bone = "bonea5"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+							
+							{
+								_class = "Hitbox"
+								hitbox_mins = 
+								[
+									0.000000,
+									-39.445800,
+									-27.575160,
+								]
+								hitbox_maxs = 
+								[
+									7.526353,
+									29.122870,
+									7.446985,
+								]
+								name = "bonea6"
+								parent_bone = "bonea6"
+								surface_property = "metalvent"
+								translation_only = false
+								group_id = 0
+							},
+						]
+					},
+				]
+			},
+			
+			{
+				_class = "Skeleton"
+				children = 
+				[
+					
+					{
+						_class = "Bone"
+						name = "scene_root"
+						origin = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						angles = 
+						[
+							0.000000,
+							0.000000,
+							89.999950,
+						]
+						do_not_discard = true
+						children = 
+						[
+							
+							{
+								_class = "Bone"
+								name = "bone_flagpole"
+								origin = 
+								[
+									-0.591533,
+									472.307700,
+									0.000113,
+								]
+								angles = 
+								[
+									0.000000,
+									0.000000,
+									0.000014,
+								]
+								do_not_discard = true
+								children = 
+								[
+									
+									{
+										_class = "Bone"
+										name = "bonea"
+										origin = 
+										[
+											0.749935,
+											2.281097,
+											0.000005,
+										]
+										angles = 
+										[
+											-90.000000,
+											16.260200,
+											0.000000,
+										]
+										do_not_discard = true
+										children = 
+										[
+											
+											{
+												_class = "Bone"
+												name = "bonea1"
+												origin = 
+												[
+													0.000005,
+													0.000122,
+													31.766350,
+												]
+												angles = 
+												[
+													0.000000,
+													0.000000,
+													0.000000,
+												]
+												do_not_discard = true
+												children = 
+												[
+													
+													{
+														_class = "Bone"
+														name = "bonea2"
+														origin = 
+														[
+															0.000005,
+															0.000000,
+															26.474120,
+														]
+														angles = 
+														[
+															0.000000,
+															0.000000,
+															0.000000,
+														]
+														do_not_discard = true
+														children = 
+														[
+															
+															{
+																_class = "Bone"
+																name = "bonea3"
+																origin = 
+																[
+																	0.000005,
+																	0.000061,
+																	23.366580,
+																]
+																angles = 
+																[
+																	0.000000,
+																	0.000000,
+																	0.000000,
+																]
+																do_not_discard = true
+																children = 
+																[
+																	
+																	{
+																		_class = "Bone"
+																		name = "bonea4"
+																		origin = 
+																		[
+																			0.000005,
+																			0.000061,
+																			19.966390,
+																		]
+																		angles = 
+																		[
+																			0.000000,
+																			0.000000,
+																			0.000000,
+																		]
+																		do_not_discard = true
+																		children = 
+																		[
+																			
+																			{
+																				_class = "Bone"
+																				name = "bonea5"
+																				origin = 
+																				[
+																					0.000005,
+																					0.000061,
+																					17.531830,
+																				]
+																				angles = 
+																				[
+																					0.000000,
+																					0.000000,
+																					0.000000,
+																				]
+																				do_not_discard = true
+																				children = 
+																				[
+																					
+																					{
+																						_class = "Bone"
+																						name = "bonea6"
+																						origin = 
+																						[
+																							0.000005,
+																							0.000061,
+																							16.048370,
+																						]
+																						angles = 
+																						[
+																							0.000000,
+																							0.000000,
+																							0.000000,
+																						]
+																						do_not_discard = true
+																					},
+																				]
+																			},
+																		]
+																	},
+																]
+															},
+														]
+													},
+												]
+											},
+										]
+									},
+								]
+							},
+						]
+					},
+				]
+			},
+		]
+	}
+}

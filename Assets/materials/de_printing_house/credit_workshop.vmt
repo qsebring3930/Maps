@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+    $basetexture "de_printing_house\credit_workshop"
+    $translucent 1
+    $selfillum 1
+    $surfaceprop paper
+    $selfillumtexture "de_printing_house\credit_workshop_mask"
+}

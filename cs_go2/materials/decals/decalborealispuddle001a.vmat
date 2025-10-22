@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/decals/decalborealispuddlemask001a_color.tga"
+	"TextureTranslucency"		"materials/decals/decalborealispuddlemask001a_trans.tga"
+	"F_BLEND_MODE"		"1"
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"%tooltexture"		"Decals/decalwastelandpuddle001a"
+			"$envmap"		"env_cubemap"
+			"$basetexture"		"decals/decalborealispuddlemask001a"
+			"$translucent"		"1"
+			"$decal"		"1"
+			"$decalscale"		"0.250000"
+			"$envmaptint"		"[ 0.50 0.50 0.50 ]"
+			"%keywords"		"borealis"
+		}
+	}
+}

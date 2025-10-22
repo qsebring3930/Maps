@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_trainstation\trainstation_ceiling01.vmt"
+}

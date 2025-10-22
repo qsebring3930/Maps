@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/roof_detail02"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/de_crossfire/roof_detail02_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[1.0 1.0 1.0]"
+	"$envmapcontrast" "1"
+	"$model" "1"
+}

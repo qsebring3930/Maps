@@ -1,0 +1,33 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_c17/lamppost03a_color.tga"
+	"TextureNormal"		"[0.501961 0.501961 0.996078 1.000000]"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props_c17/lamppost03a_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/detail/dt_metalgalv_detail.tga"
+	"g_vDetailTexCoordScale"		"[10.000000 10.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models/props_c17/lamppost03a"
+			"$bumpmap"		"effects/flat_normal"
+			"$halflambert"		"1"
+			"$phong"		"1"
+			"$phongboost"		"1"
+			"$phongexponent"		"10"
+			"$BASEMAPLUMINANCEPHONGMASK"		"1"
+			"$phongfresnelranges"		"[10 10 60]"
+			"$detail"		"detail\dt_metalgalv"
+			"$detailscale"		"10"
+			"$detailblendfactor"		"1"
+			"$detailblendmode"		"0"
+		}
+	}
+}

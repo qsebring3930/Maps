@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_prodigy\tirestack.vmt"
+	"file"	"materials\models\props\de_prodigy\wood_pallet_01.vmt"
+}

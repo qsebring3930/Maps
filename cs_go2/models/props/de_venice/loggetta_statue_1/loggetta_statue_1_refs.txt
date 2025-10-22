@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_venice\loggetta_statue_1\loggetta_statue_1.vmt"
+}

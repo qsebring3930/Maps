@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_printing_house\beton_route"
+	"$surfaceprop" "concrete"
+	"%keywords" "de_printing_house"
+	"$bumpmap" "de_printing_house\beton_route_normal"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" "1"
+}

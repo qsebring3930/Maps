@@ -1,0 +1,17 @@
+
+LightmappedGeneric
+{
+$basetexture "Tile/tilefloor016a"
+$surfaceprop tile
+
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+//$envmapcontrast 1
+
+
+
+
+
+
+
+}

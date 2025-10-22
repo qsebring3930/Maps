@@ -1,0 +1,17 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SPECULAR_INDIRECT"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/de_train/ladderaluminium_color.png"
+	"TextureNormal"	"materials/models/props/de_train/ladderaluminium_ref_rough.png"
+	"TextureRoughness"	"materials/models/props/de_train/ladderaluminium_ref_rough_8258f50d_rough.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/de_train/ladderaluminium_color_tga_4065a6ca.vtex"
+		"g_tMetalness"	"materials/models/props/cs_assault/ladderaluminium_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props/de_train/ladderaluminium_ref_rough_tga_8258f50d.vtex"
+	}
+}

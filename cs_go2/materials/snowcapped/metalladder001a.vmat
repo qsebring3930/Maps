@@ -1,0 +1,31 @@
+"Layer0"
+{
+	"Shader"		"generic.vfx"
+	"Attributes"
+	{
+		"tools.toolsmaterial"		"1"
+		"mapbuilder.nodraw"		"1"
+		"mapbuilder.blocklight"		"1"
+		"mapbuilder.ladder"		"1"
+		"mapbuilder.passbullets"		"1"
+	}
+	"TextureColor"		"materials/snowcapped/metalladder001a_color.tga"
+	"TextureTranslucency"		"materials/snowcapped/metalladder001a_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.500000"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"snowcapped/metalladder001a"
+			"$surfaceprop"		"metal"
+			"%compileladder"		"1"
+			"$alphatest"		"1"
+			"%compilepassbullets"		"1"
+		}
+	}
+}

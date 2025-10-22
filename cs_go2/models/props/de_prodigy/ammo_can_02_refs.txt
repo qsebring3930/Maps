@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_prodigy\ammo_can_01.vmt"
+}

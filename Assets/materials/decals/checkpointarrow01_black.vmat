@@ -1,0 +1,11 @@
+"Layer0"
+{
+	"shader"	"csgo_decalmodulate.vfx"
+	"F_OVERLAY"	"1"
+	"DecalColor"	"materials/decals/checkpointarrow01_black_color.png"
+	"DecalTranslucency"	"materials/decals/checkpointarrow01_black_1502b66d_trans.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/decals/checkpointarrow01_black_color_tga_1502b66d.vtex"
+	}
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "props_bastion/tex_ax_stug_iv_tracks_SH_DIFFUSE"
+	$surfaceprop Metal
+	$alphatest 1
+    $model 1
+}

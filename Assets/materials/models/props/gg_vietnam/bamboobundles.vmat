@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_TINT_MASK"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureTintMask"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/gg_vietnam/bamboobundles_color.png"
+	"TextureNormal"	"materials/models/props/gg_vietnam/bamboobundles_normal.png"
+	"TextureRoughness"	"materials/models/props/gg_vietnam/bamboobundles_1ca82dcd_rough.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/gg_vietnam/bamboobundles_color_tga_cdc1188a.vtex"
+		"g_tMetalness"	"materials/models/props/gg_vietnam/bamboobundles_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props/gg_vietnam/bamboobundles_normal_tga_1ca82dcd.vtex"
+		"g_tTintMask"	"materials/models/props/gg_vietnam/bamboobundles_vmat_g_ttintmask_2b2ebb3f.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"wood"
+	}
+}

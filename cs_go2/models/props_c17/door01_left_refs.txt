@@ -1,0 +1,17 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\door01a.vmt"
+	"file"	"materials\models\props_c17\door01a_skin2.vmt"
+	"file"	"materials\models\props_c17\door01a_skin3.vmt"
+	"file"	"materials\models\props_c17\door01a_skin4.vmt"
+	"file"	"materials\models\props_c17\door01a_skin5.vmt"
+	"file"	"materials\models\props_c17\door01a_skin6.vmt"
+	"file"	"materials\models\props_c17\door01a_skin7.vmt"
+	"file"	"materials\models\props_c17\door01a_skin8.vmt"
+	"file"	"materials\models\props_c17\door01a_skin9.vmt"
+	"file"	"materials\models\props_c17\door01a_skin10.vmt"
+	"file"	"materials\models\props_c17\door01a_skin11.vmt"
+	"file"	"materials\models\props_c17\door01a_skin12.vmt"
+	"file"	"materials\models\props_c17\door01a_skin13.vmt"
+	"file"	"materials\models\props_c17\door01a_skin14.vmt"
+}

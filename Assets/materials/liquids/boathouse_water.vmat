@@ -1,0 +1,41 @@
+"Layer0"
+{
+	"shader"	"csgo_water.vfx"
+	"F_ANIMATED_NORMALS"	"1"
+	"F_FLOW_NORMALS"	"1"
+	"F_FRESNEL"	"1"
+	"F_LIGHTMAP_WATER_FOG"	"1"
+	"g_flBumpStrength"	"1"
+	"g_flFlowTimeScale"	"0.35"
+	"g_flNoiseUvScale"	"0.0005"
+	"g_flNormalFlowTimeIntervalInSeconds"	"0.2"
+	"g_flNormalFlowUvScrollDistance"	"0.175"
+	"g_flNormalUvScale"	"155"
+	"g_flReflectionAmount"	"1"
+	"g_flRefractionAmount"	"1"
+	"g_flWaterDepth"	"32"
+	"g_flWaterStart"	"-10"
+	"g_flWorldUvScale"	"3"
+	"g_vReflectionTint"	"[0.392157 0.392157 0.392157 0.000000]"
+	"g_vWaterFogColor"	"[0.196078 0.235294 0.235294 0.000000]"
+	"TextureColor"	"materials/default/default_color.tga"
+	"TextureFlow"	"materials/liquids/c3m2_hflowmap_a_flow.png"
+	"TextureNoise"	"materials/liquids/water_noise.png"
+	"TextureNormal"	"materials/dev/water_normal.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/default/default_color_tga_72dcfbfd.vtex"
+		"g_tFlow"	"materials/liquids/c3m2_hflowmap_a_flow_tga_1e879580.vtex"
+		"g_tNoise"	"materials/liquids/water_noise_tga_e1dbd7a8.vtex"
+		"g_tNormal"	"materials/dev/water_normal_mks_558bf690.vtex"
+	}
+	"Attributes"
+	{
+		"mapbuilder.nonsolid"	"1"
+		"mapbuilder.water"	"1"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"water"
+	}
+}

@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"[1.000000 1.000000 1.000000 1.000000]"
+	"F_VERTEX_COLOR"		"1"
+	"F_BLEND_MODE"		"0"
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"%tooltexture"		"Decals/decalwastelandpuddle001a"
+			"$envmap"		"environment maps/borealis_003"
+			"$envmapmask"		"decals/decalborealispuddlemask001a"
+			"$vertexcolor"		"1"
+			"$vertexalpha"		"1"
+			"$decal"		"1"
+			"$decalscale"		"0.200000"
+			"$decalfadeduration"		"-2.000000"
+			"$decalfadetime"		"0.000000"
+		}
+	}
+}

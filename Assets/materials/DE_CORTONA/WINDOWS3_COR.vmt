@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_cortona/windows3_cor"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_cortona/windows3_cor_ref"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

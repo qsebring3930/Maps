@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/fence1"
+       "$translucent" 1
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\wood_palletcrate001a.vmt"
+}

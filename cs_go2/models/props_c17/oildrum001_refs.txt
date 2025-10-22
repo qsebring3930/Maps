@@ -1,0 +1,9 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\oil_drum001a.vmt"
+	"file"	"materials\models\props_c17\oil_drum001c.vmt"
+	"file"	"materials\models\props_c17\oil_drum001d.vmt"
+	"file"	"materials\models\props_c17\oil_drum001e.vmt"
+	"file"	"materials\models\props_c17\oil_drum001f.vmt"
+	"file"	"materials\models\props_c17\oil_drum001g.vmt"
+}

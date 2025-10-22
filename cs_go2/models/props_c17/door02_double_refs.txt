@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\frostedglass_01a.vmt"
+	"file"	"materials\models\props_c17\door02a.vmt"
+	"file"	"materials\models\props_c17\door01a.vmt"
+	"file"	"materials\models\props_c17\door02a_skin2.vmt"
+}

@@ -1,0 +1,38 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_venice/loggetta_statue_1/loggetta_statue_1_color.tga"
+	"TextureNormal"		"materials/models/props/de_venice/loggetta_statue_1/loggetta_statue_1_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.200000"
+	"TextureRoughness"		"materials/models/props/de_venice/loggetta_statue_1/loggetta_statue_1_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/detail/noise_detail_01_detail.tga"
+	"g_vDetailTexCoordScale"		"[6.000000 6.000000]"
+	"g_flDetailBlendFactor"		"0.500000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\de_venice\loggetta_statue_1\loggetta_statue_1"
+			"$nodecal"		"1"
+			"$phongexponent"		"20"
+			"$phongalbedotint"		"1"
+			"$phongtint"		"[.1 .15 .1]"
+			"$phongdisablehalflambert"		"1"
+			"$phong"		"1"
+			"$phongboost"		"1"
+			"$phongfresnelranges"		"[.8 0.5 1]"
+			"$bumpmap"		"models/props/de_venice/loggetta_statue_1/loggetta_statue_1_normal"
+			"$basemapalphaphongmask"		"1"
+			"$detail"		"detail\noise_detail_01"
+			"$detailscale"		"[ 6 6 ]"
+			"$detailblendfactor"		"0.500000"
+			"$envmapfresnel"		"0.200000"
+			"$envmaptint"		"[.2 .2 .2]"
+		}
+	}
+}

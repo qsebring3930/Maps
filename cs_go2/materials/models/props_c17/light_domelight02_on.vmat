@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_c17/light_domelight02_on_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureSelfIllumMask"		"materials/models/props_c17/light_domelight02_on_selfillum.tga"
+	"F_SELF_ILLUM"		"1"
+	"g_vSelfIllumTint"		"[1.000000 1.000000 1.000000]"
+	"g_flSelfIllumScale"		"1.000000"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_c17/light_domelight02_on"
+			"$surfaceprop"		"glass"
+			"$selfillum"		"1"
+			"$selfillumtint"		"[1 1 1]"
+		}
+	}
+}

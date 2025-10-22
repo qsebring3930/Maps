@@ -1,0 +1,25 @@
+// TAVR - AUTO RADAR. v 2.5.0a
+"de_contra_b5"
+{
+	"CTSpawn_x" "0.530000"
+	"CTSpawn_y" "0.200000"
+	"TSpawn_x" "0.810000"
+	"TSpawn_y" "0.800000"
+	"material" "overviews/de_contra_b5"
+	"pos_x" "-2736.000000"
+	"pos_y" "2104.000000"
+	"scale" "4.840000"
+	"verticalsections"
+	{
+		"default"
+		{
+			"AltitudeMax" "10000.000000"
+			"AltitudeMin" "-408.000000"
+		}
+		"layer1"
+		{
+			"AltitudeMax" "-408.000000"
+			"AltitudeMin" "-10000.000000"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_windows\dust_window_frame_wood_01.vmt"
+}

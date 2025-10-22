@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/de_bastion/rug002"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "de_bastion"
+}

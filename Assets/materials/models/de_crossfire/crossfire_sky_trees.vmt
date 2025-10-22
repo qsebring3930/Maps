@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/crossfire_sky_trees"
+	"$alphatest" 1
+	"$alphatestreference" "0.4"
+	"$nocull" 1
+}

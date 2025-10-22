@@ -1,0 +1,261 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "bonemask_default"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "base"
+								weight = 1.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+			},
+			{
+				_class = "Skeleton"
+				children = 
+				[
+					{
+						_class = "Bone"
+						name = "base"
+						children = 
+						[
+							{
+								_class = "Bone"
+								name = "center_button"
+								origin = [ 0.0, -2.116224, 0.996426 ]
+								angles = [ -0.0, 0.0, 0.0 ]
+								do_not_discard = false
+							},
+						]
+						origin = [ 0.0, 0.0, 0.0 ]
+						angles = [ -0.0, 0.0, 89.999977 ]
+						do_not_discard = false
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "MaterialGroup"
+						name = "1"
+						remaps = 
+						[
+							{
+								from = "materials/models/props_lab/keypad_sheet.vmat"
+								to = "materials/models/props_lab/keypad_granted.vmat"
+							},
+							{
+								from = "materials/models/props_lab/keypad_granted.vmat"
+								to = "materials/models/props_lab/keypad_granted.vmat"
+							},
+							{
+								from = "materials/models/props_lab/keypad_denied.vmat"
+								to = "materials/models/props_lab/keypad_denied.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "2"
+						remaps = 
+						[
+							{
+								from = "materials/models/props_lab/keypad_sheet.vmat"
+								to = "materials/models/props_lab/keypad_denied.vmat"
+							},
+							{
+								from = "materials/models/props_lab/keypad_granted.vmat"
+								to = "materials/models/props_lab/keypad_granted.vmat"
+							},
+							{
+								from = "materials/models/props_lab/keypad_denied.vmat"
+								to = "materials/models/props_lab/keypad_denied.vmat"
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 1.0
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "keypad_reference_0_mesh"
+						parent_bone = ""
+						surface_prop = "metalpanel"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props_lab/keypad_refs/phys/keypad_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"keypad_reference_0_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "button"
+						parent_bone = "center_button"
+						relative_origin = [ 0.0, -0.0, -0.0 ]
+						relative_angles = [ -89.999992, -90.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "base"
+								surface_property = "metalpanel"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.0, -5.510236, -0.000002 ]
+								hitbox_maxs = [ 3.0, 5.489764, 1.009079 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "keypad_bg_body_lod0"
+						filename = "/models/props_lab/keypad_refs/mesh/keypad_bg_body_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "idle"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_lab/keypad_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@idle_0"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_lab/keypad_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 0
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

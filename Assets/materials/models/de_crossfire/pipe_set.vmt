@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/pipe_set"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/de_crossfire/pipe_set_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.85 0.85 0.85]"
+	"$envmapcontrast" "1"
+	"$model" "1"
+}

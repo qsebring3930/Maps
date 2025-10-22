@@ -1,0 +1,480 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "bonemask_default"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "door"
+								weight = 1.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "door_options"
+						game_keys = 
+						{
+							default = 
+							{
+								open = "Doors.FullOpen1"
+								close = "Doors.FullClose1"
+								move = "Doors.Move1"
+							}
+							skin0 = 
+							{
+								open = "Doors.FullOpen1"
+								close = "Doors.FullClose1"
+								move = "Doors.Move1"
+								surfaceprop = "metal"
+							}
+							skin1 = 
+							{
+								open = "Doors.FullOpen4"
+								close = "Doors.FullClose4"
+								move = "Doors.Move4"
+								surfaceprop = "wood"
+							}
+							hardware0 = 
+							{
+								locked = "DoorSound.Null"
+								unlocked = "DoorSound.Null"
+							}
+							hardware1 = 
+							{
+								locked = "DoorHandles.Locked1"
+								unlocked = "DoorHandles.Unlocked1"
+							}
+							hardware2 = 
+							{
+								locked = "DoorHandles.Locked2"
+								unlocked = "DoorHandles.Unlocked2"
+							}
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							base = null
+							allowstatic = true
+							bakelighting = true
+							damage_table = ""
+							dmg.bullets = -1.0
+							dmg.club = -1.0
+							dmg.explosive = -1.0
+							dmg.fire = -1.0
+							health = -1.0
+							spawn_motion_disabled = false
+						}
+					},
+				]
+			},
+			{
+				_class = "Skeleton"
+				children = 
+				[
+					{
+						_class = "Bone"
+						name = "door"
+						children = 
+						[
+							{
+								_class = "Bone"
+								name = "handle"
+								origin = [ 43.810005, -10.390667, 1.997513 ]
+								angles = [ -0.0, 0.0, 0.0 ]
+								do_not_discard = false
+							},
+							{
+								_class = "Bone"
+								name = "handle02"
+								origin = [ 43.810005, -10.390667, 1.997513 ]
+								angles = [ -0.0, 0.0, 0.0 ]
+								do_not_discard = false
+							},
+						]
+						origin = [ 0.0, 0.0, 0.0 ]
+						angles = [ -0.0, 0.0, 89.999977 ]
+						do_not_discard = false
+					},
+				]
+			},
+			{
+				_class = "BodyGroupList"
+				children = 
+				[
+					{
+						_class = "BodyGroup"
+						name = "Body"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"door02_double_bg_body_lod0",
+								]
+							},
+						]
+						hidden_in_tools = false
+						non_bodygroup_single_choice = false
+					},
+					{
+						_class = "BodyGroup"
+						name = "handle02"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"door02_double_bg_handle02_sm1_lod0",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"door02_double_bg_handle02_sm2_lod0",
+								]
+							},
+						]
+						hidden_in_tools = false
+						non_bodygroup_single_choice = false
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "MaterialGroup"
+						name = "1"
+						remaps = 
+						[
+							{
+								from = "materials/models/props_c17/frostedglass_01a.vmat"
+								to = "materials/models/props_c17/frostedglass_01a.vmat"
+							},
+							{
+								from = "materials/models/props_c17/door02a.vmat"
+								to = "materials/models/props_c17/door02a_skin2.vmat"
+							},
+							{
+								from = "materials/models/props_c17/door01a.vmat"
+								to = "materials/models/props_c17/door01a.vmat"
+							},
+							{
+								from = "materials/models/props_c17/door02a_skin2.vmat"
+								to = "materials/models/props_c17/door02a_skin2.vmat"
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 50.000004
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "door02_double_door_physbox_0_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props_c17/door02_double_refs/phys/door02_double_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"door02_double_door_physbox_0_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "door"
+								surface_property = "metal"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ 0.0, -54.0, -2.505999 ]
+								hitbox_maxs = [ 46.119965, 54.0, 4.761284 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "handle"
+								surface_property = "metal"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.266884, -1.546513, -6.906705 ]
+								hitbox_maxs = [ 1.546509, 1.546511, 4.822148 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "handle02"
+								surface_property = "metal"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.690044, -1.213986, 0.0 ]
+								hitbox_maxs = [ 0.0, 1.995315, 3.066433 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "door02_double_bg_body_lod0"
+						filename = "/models/props_c17/door02_double_refs/mesh/door02_double_bg_body_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "door02_double_bg_handle02_sm1_lod0"
+						filename = "/models/props_c17/door02_double_refs/mesh/door02_double_bg_handle02_sm1_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "door02_double_bg_handle02_sm2_lod0"
+						filename = "/models/props_c17/door02_double_refs/mesh/door02_double_bg_handle02_sm2_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "idle"
+						activity_name = "ACT_IDLE"
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "locked"
+						activity_name = "ACT_DOOR_LOCKED"
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_locked_1.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "open"
+						activity_name = "ACT_DOOR_OPEN"
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_open_2.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@idle_0"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 0
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@locked_1"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_locked_1.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 100
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@open_2"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props_c17/door02_double_refs/anim/_open_2.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 100
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

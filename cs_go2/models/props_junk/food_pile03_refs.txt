@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\food_used.vmt"
+}

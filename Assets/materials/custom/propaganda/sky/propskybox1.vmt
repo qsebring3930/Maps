@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	"$basetexture"	"custom\propaganda\sky\propskybox1"
+	"$translucent" "1"
+}

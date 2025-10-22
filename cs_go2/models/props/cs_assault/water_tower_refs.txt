@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\water_tower.vmt"
+	"file"	"materials\models\props\cs_assault\water_tower2.vmt"
+}

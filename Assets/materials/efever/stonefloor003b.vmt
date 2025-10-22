@@ -1,0 +1,13 @@
+"lightmappedGeneric"
+
+{
+	"$basetexture" "efever/stonefloor003b"
+	"$bumpmap" "efever/stonefloor003b_normal"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .6 .6 .6 ]"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "dod"
+}

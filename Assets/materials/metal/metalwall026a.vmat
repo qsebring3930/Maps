@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_DETAILBLENDMODE"	"0"
+	"F_DETAILTEXTURE"	"1"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1DetailScale"	"[8.000000 8.000000 0.000000 0.000000]"
+	"g_vLayer1DetailTintAndBlend"	"[1.000000 1.000000 1.000000 0.700000]"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/metal/metalwall026a_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Detail"	"materials/detail/dt_metal2_color.png"
+	"TextureLayer1Normal"	"materials/metal/metalwall026a_normal.png"
+	"TextureLayer1Roughness"	"materials/metal/metalwall026a_2bb4dd19_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/metal/metalwall026a_color_tga_5e707c48.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1Detail"	"materials/detail/dt_metal2_color_tga_c12f1fa.vtex"
+		"g_tLayer1NormalRoughness"	"materials/metal/metalwall026a_normal_tga_2bb4dd19.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"metalvent"
+	}
+}

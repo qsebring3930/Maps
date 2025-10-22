@@ -1,0 +1,431 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			
+			{
+				_class = "BoneMarkupList"
+				children = 
+				[
+				]
+				bone_cull_type = "None"
+			},
+			
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					
+					{
+						_class = "RenderMeshFile"
+						name = "flower_barrel_bg_body_lod0"
+						filename = "models/props_foliage/flower_barrel_flower_barrel_bg_body_lod0.dmx"
+					},
+				]
+			},
+			
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_foliage/flower_barrel_hull.dmx"
+						surface_prop = "Wood_Plank"
+						collision_tags = ""
+						name = ""
+					},
+				]
+			},
+			
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					
+					{
+						_class = "GenericGameData"
+						name = ""
+						game_class = "prop_data"
+						game_keys = 
+						{
+							base = "Wooden.Barrel"
+							allowstatic = true
+							bakelighting = true
+							damage_table = ""
+							dmg.bullets = 0.000000
+							dmg.club = 0.500000
+							dmg.explosive = 2.000000
+							dmg.fire = -1.000000
+							health = -1.000000
+							spawn_motion_disabled = false
+						}
+					},
+				]
+			},
+			
+			{
+				_class = "BreakPieceList"
+				children = 
+				[
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p1.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 12.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p2.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 15.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p3.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 13.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p4.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 8.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p5.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 14.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p6.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 12.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p7.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 11.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p8.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 13.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 0
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p9.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 10.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p10.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 8.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+					
+					{
+						_class = "BreakPieceExternal"
+						piece_name = ""
+						model = resource:"models/props_foliage/flower_barrel_p11.vmdl"
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						offset = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						offset_rotation = 
+						[
+							0.000000,
+							0.000000,
+							0.000000,
+						]
+						fadetime = 15.000000
+						fademindist = 0.000000
+						fademaxdist = 0.000000
+						random_spawn_chance = 1.000000
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						physics_joint_modification_type = "none"
+						sound_event_on_spawn = ""
+						health_override = 1
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+					},
+				]
+			},
+		]
+	}
+}

@@ -1,0 +1,20 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/models/props_foliage/tree_deciduous_01a_branches_color.tga"
+	"TextureTranslucency"		"materials/models/props_foliage/tree_deciduous_01a_branches_trans.tga"
+	"g_flAlphaTestReference"		"0.500000"
+	"F_BLEND_MODE"		"2"
+	"F_RENDER_BACKFACES"		"1"
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$alphatest"		"1"
+			"$basetexture"		"models/props_foliage/tree_deciduous_01a_branches"
+			"$model"		"1"
+			"$nocull"		"1"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"VertexLitgeneric"
+{
+	"$baseTexture" "textures\wood/orangewood2"
+
+	"$surfaceprop" "wood"
+	"%keywords" "elpaso"
+
+"$model" 1
+}

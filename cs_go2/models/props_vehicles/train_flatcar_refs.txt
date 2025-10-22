@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_vehicles\train_flatcar.vmt"
+}

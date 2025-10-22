@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_mall\cage_light_fixture.vmt"
+	"file"	"materials\models\props_mall\cage_light_fixture_on.vmt"
+}

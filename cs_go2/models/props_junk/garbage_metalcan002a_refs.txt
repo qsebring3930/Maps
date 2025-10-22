@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\physics_trash_hospital.vmt"
+}

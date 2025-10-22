@@ -1,0 +1,7 @@
+"de_print"
+{
+"material" "overviews/de_print"
+"pos_x" "-3227"
+"pos_y" "4760"
+"scale" "6" 
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/env_tree2"
+	"$Alphatest" 1
+	"$nocull" 1
+}

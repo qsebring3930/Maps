@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props_lab\keypad_sheet.vmt"
+	"file"	"materials\models\props_lab\keypad_granted.vmt"
+	"file"	"materials\models\props_lab\keypad_denied.vmt"
+}

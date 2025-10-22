@@ -1,0 +1,28 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_trainstation/trainstation_bench001_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.250000"
+	"TextureRoughness"		"materials/models/props_trainstation/trainstation_bench001_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_trainstation/trainstation_bench001"
+			"$surfaceprop"		"wood"
+			"$envmap"		"env_cubemap"
+			"$basealphaenvmapmask"		"1"
+			"$envmapcontrast"		"1"
+			"$envmapsaturation"		"1"
+			"$envmaptint"		"[ .25 .25 .25]"
+		}
+	}
+}

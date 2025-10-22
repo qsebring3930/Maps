@@ -1,0 +1,20 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SELF_ILLUM"	"1"
+	"F_SPECULAR_INDIRECT"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/de_nuke/light_wall_color.png"
+	"TextureNormal"	"materials/models/props/de_nuke/light_wall_ref_rough.png"
+	"TextureRoughness"	"materials/models/props/de_nuke/light_wall_ref_rough_ca640baf_rough.png"
+	"TextureSelfIllumMask"	"materials/models/props/de_nuke/light_wall_selfillum.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/de_nuke/light_wall_color_tga_213e5a95.vtex"
+		"g_tMetalness"	"materials/models/props/de_nuke/light_wall_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props/de_nuke/light_wall_ref_rough_tga_ca640baf.vtex"
+		"g_tSelfIllumMask"	"materials/models/props/de_nuke/light_wall_selfillum_tga_286c1b61.vtex"
+	}
+}

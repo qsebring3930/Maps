@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/bush1"
+	"$Alphatest" 1
+	"$nocull" 1
+
+}

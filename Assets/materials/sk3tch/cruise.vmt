@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sk3tch/cruise"
+	"%keywords" "cstrike"
+	"$surfaceprop" "wood"
+	"$bumpmap" "sk3tch/cruisenormal"
+}

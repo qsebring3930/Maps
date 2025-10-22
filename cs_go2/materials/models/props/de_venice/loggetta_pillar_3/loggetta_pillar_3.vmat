@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_venice/loggetta_pillar_3/loggetta_pillar_3_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureDetail"		"materials/detail/noise_detail_01_detail.tga"
+	"g_vDetailTexCoordScale"		"[3.000000 3.000000]"
+	"g_flDetailBlendFactor"		"0.400000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\de_venice\loggetta_pillar_3\loggetta_pillar_3"
+			"$detail"		"detail\noise_detail_01"
+			"$detailscale"		"[ 3 3 ]"
+			"$detailblendfactor"		"0.400000"
+		}
+	}
+}

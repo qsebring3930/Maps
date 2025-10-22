@@ -1,0 +1,19 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_prodigy/ammo_can_01_color.tga"
+	"TextureNormal"		"materials/models/props/de_prodigy/ammo_can_01_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureRoughness"		"[0.050000 0.050000 0.050000 1.000000]"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\de_prodigy\Ammo_Can_01"
+			"$envmap"		"env_cubemap"
+			"$bumpmap"		"models\props\de_prodigy\Ammo_Can_01_normal"
+		}
+	}
+}

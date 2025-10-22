@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_italy\italy_interior_doorframe.vmt"
+}

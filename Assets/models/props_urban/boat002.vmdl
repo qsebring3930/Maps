@@ -1,0 +1,310 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			
+			{
+				_class = "BoneMarkupList"
+				children = 
+				[
+				]
+				bone_cull_type = "None"
+			},
+			
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					
+					{
+						_class = "RenderMeshFile"
+						name = "boat002_bg_body_lod0"
+						filename = "models/props_urban/boat002_boat002_bg_body_lod0.dmx"
+					},
+				]
+			},
+			
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull1.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull2.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull3.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull4.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull5.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull6.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull7.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull8.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull9.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull10.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull11.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull12.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull13.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull14.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull15.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull16.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull17.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull18.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull19.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull20.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull21.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull22.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull23.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull24.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull25.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull26.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull27.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull28.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull29.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull30.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull31.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull32.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+					
+					{
+						_class = "PhysicsHullFile"
+						filename = "models/props_urban/boat002_hull33.dmx"
+						surface_prop = "no_decal"
+						collision_tags = ""
+						name = ""
+					},
+				]
+			},
+		]
+	}
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/Tree_pine"
+	"$alphatest" 1
+	"$alphatestreference" "0.2"
+	"$nocull" 1
+	"$bumpmap" "models/de_crossfire/tree_pine_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	"$envmapcontrast" "1"
+	"$model" "1"
+}

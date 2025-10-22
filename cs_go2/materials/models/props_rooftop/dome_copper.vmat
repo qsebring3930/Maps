@@ -1,0 +1,26 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_rooftop/dome_copper_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props_rooftop/dome_copper_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models/props_rooftop/dome_copper"
+			"$surfaceprop"		"metal"
+			"$basealphaenvmapmask"		"1"
+			"$envmap"		"env_cubemap"
+			"$envmapcontrast"		"1"
+			"$envmapsaturation"		"1"
+		}
+	}
+}

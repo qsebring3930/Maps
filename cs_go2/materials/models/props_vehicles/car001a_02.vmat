@@ -1,0 +1,33 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_vehicles/car001a_02_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.250000"
+	"TextureRoughness"		"materials/models/props_vehicles/car001_envmapmask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"solidmetal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_vehicles/car001a_02"
+			"$surfaceprop"		"solidmetal"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"Models/props_vehicles/car001_envmapmask"
+			"vertexlitgeneric_HDR_dx9"
+			{
+				"$envmaptint"		"[.25 .25 .25]"
+			}
+			"vertexlitgeneric_DX9"
+			{
+				"$envmaptint"		"[.25 .25 .25]"
+			}
+		}
+	}
+}

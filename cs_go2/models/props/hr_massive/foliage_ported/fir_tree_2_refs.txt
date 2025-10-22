@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_massive\foliage_ported\fir_branch_2.vmt"
+	"file"	"materials\models\props\hr_massive\foliage_ported\fir_bark_1.vmt"
+}

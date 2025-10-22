@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_italy\hpe_italy_pipe_wall.vmt"
+}

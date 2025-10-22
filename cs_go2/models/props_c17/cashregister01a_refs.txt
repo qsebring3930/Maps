@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\cashregister01a.vmt"
+	"file"	"materials\models\props_c17\cashregister01a_02.vmt"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/downtown/downtown_flag_a"
+	$translucent 1
+	$nocull 1
+}

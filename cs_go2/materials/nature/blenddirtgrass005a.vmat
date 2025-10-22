@@ -1,0 +1,41 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/nature/dirtfloor011a_color.tga"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureLayer2Color"		"materials/nature/dirtfloor006a_color.tga"
+	"TextureLayer2Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer2AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"1"
+	"g_vLayer1TexCoordCenter"		"[0.500000 0.500000]"
+	"g_vLayer1TexCoordScale"		"[1.000000 1.000000]"
+	"g_flLayer1TexCoordRotation"		"0.000000"
+	"g_vLayer1TexCoordOffset"		"[0.000000 0.000000]"
+	"g_vLayer2TexCoordCenter"		"[0.500000 0.500000]"
+	"g_vLayer2TexCoordScale"		"[4.000000 4.000000]"
+	"g_flLayer2TexCoordRotation"		"0.000000"
+	"g_vLayer2TexCoordOffset"		"[0.000000 0.000000]"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"g_vLayer2Tint"		"[1.000000 1.000000 1.000000]"
+	"F_FANCY_BLENDING"		"0"
+	"F_TEXTURETRANSFORMS"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"dirt"
+	}
+	"legacy_import"
+	{
+		"WorldVertexTransition"
+		{
+			"$basetexture"		"nature/dirtfloor011a"
+			"$basetexture2"		"nature/dirtfloor006a"
+			"%tooltexture"		"nature/blenddirtgrass005a_tooltexture"
+			"$basetexturetransform"		"center .5 .5 scale 1 1 rotate 0  translate 0 0"
+			"$basetexturetransform2"		"center .5 .5 scale 4 4 rotate 0 translate 0 0"
+			"%detailtype"		"coastline_grass01"
+			"$surfaceprop"		"dirt"
+			"%keywords"		"coastline"
+		}
+	}
+}

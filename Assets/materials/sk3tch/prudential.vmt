@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "sk3tch/prudential"
+	"$surfaceprop" "glass"
+                "$envmap" "env_cubemap"
+                "$envmaptint" "[.4 .4 .4]"
+                "$envmapcontrast" 0
+	"$envmapmask" "sk3tch/prudential_ref"
+}

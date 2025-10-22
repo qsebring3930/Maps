@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/supermarkt_rack1"
+	"$selfillum" 1
+}

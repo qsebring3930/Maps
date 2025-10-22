@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props_foliage\tree_deciduous_01a_branches.vmt"
+	"file"	"materials\models\props_foliage\tree_deciduous_01a_trunk.vmt"
+	"file"	"materials\models\props_foliage\tree_deciduous_01a_leaves.vmt"
+}

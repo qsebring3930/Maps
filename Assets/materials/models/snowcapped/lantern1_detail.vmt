@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/lantern1_detail"
+	"$Alphatest" 1
+	"$nocull" 1
+}

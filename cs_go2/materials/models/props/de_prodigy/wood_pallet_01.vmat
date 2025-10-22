@@ -1,0 +1,20 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_prodigy/wood_pallet_01_color.tga"
+	"TextureNormal"		"materials/models/props/de_prodigy/wood_pallet_01_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_prodigy/wood_pallet_01_normal_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\de_prodigy\wood_pallet_01"
+			"$envmap"		"env_cubemap"
+			"$bumpmap"		"models\props\de_prodigy\wood_pallet_01_normal"
+			"$normalmapalphaenvmapmask"		"1"
+		}
+	}
+}

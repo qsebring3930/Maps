@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/wood/milbeams003_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/wood/milbeams003_normal.png"
+	"TextureLayer1Roughness"	"materials/wood/milbeams003_1c988e64_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/wood/milbeams003_color_tga_9dc8ac71.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/wood/milbeams003_normal_tga_1c988e64.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"wood_solid"
+	}
+}

@@ -1,0 +1,44 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/hr_massive/foliage_ported/fir_branch_2_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureTranslucency"		"materials/models/props/hr_massive/foliage_ported/fir_branch_2_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.300000"
+	"F_RENDER_BACKFACES"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/hr_massive/foliage_ported/fir_branch_2"
+			"$alphatest"		"1"
+			"$alphatestreference"		"0.300000"
+			"$nocull"		"1"
+			"$surfaceprop"		"wood"
+			"$vertexcolorpower"		"0.800000"
+			"$treeSway"		"1"
+			"$treeSwayHeight"		"256"
+			"$treeSwayStartHeight"		"0.600000"
+			"$treeSwayRadius"		"96"
+			"$treeSwayStartRadius"		"0.100000"
+			"$treeSwaySpeed"		"0.200000"
+			"$treeSwayStrength"		"0.600000"
+			"$treeSwayScrumbleSpeed"		"0.200000"
+			"$treeSwayScrumbleStrength"		"0.600000"
+			"$treeSwayScrumbleFrequency"		"2"
+			"$treeSwayFalloffExp"		"64"
+			"$treeSwayScrumbleFalloffExp"		"64"
+			"$treeSwaySpeedHighWindMultiplier"		"0"
+			"$treeSwaySpeedLerpStart"		"200.000000"
+			"$treeSwaySpeedLerpEnd"		"600.000000"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_venice\loggetta_pillar_3\loggetta_pillar_3.vmt"
+	"file"	"materials\models\props\de_venice\loggetta_pillar_3\loggetta_pillar_3_white.vmt"
+}

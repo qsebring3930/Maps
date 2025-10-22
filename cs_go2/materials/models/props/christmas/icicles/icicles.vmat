@@ -1,0 +1,25 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/christmas/icicles/icicles_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.700000"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureRoughness"		"[0.126500 0.126500 0.126500 1.000000]"
+	"TextureTranslucency"		"materials/models/props/christmas/icicles/icicles_trans.tga"
+	"F_TRANSLUCENT"		"1"
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\christmas\icicles\icicles"
+			"$bumpmap"		"models\props\christmas\icicles\icicles_normal"
+			"$translucent"		"1"
+			"$envmap"		"env_cubemap"
+			"$normalmapalphaenvmapmask"		"1"
+			"$envmaptint"		"[.7 .7 .7]"
+		}
+	}
+}

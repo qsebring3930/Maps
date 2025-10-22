@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_c17/door01a_skin10_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood"
+	}
+	"legacy_import"
+	{
+		"vertexlitGeneric"
+		{
+			"$basetexture"		"models/props_c17/door01a_skin10"
+			"$surfaceprop"		"wood"
+		}
+	}
+}

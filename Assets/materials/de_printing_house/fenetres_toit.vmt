@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture "de_printing_house\fenetres_toit"
+$envmap env_cubemap
+$envmapmask "de_printing_house\fenetres_toit_spec"
+$surfaceprop glass
+}

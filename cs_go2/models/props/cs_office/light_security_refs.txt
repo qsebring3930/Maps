@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\light_security2.vmt"
+	"file"	"materials\models\props\cs_office\light_security.vmt"
+	"file"	"materials\models\props\cs_office\light_security_off.vmt"
+}

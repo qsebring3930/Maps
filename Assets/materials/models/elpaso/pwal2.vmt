@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "cs_italy/pwal1"
+	//"$detail" "cs_italy/dt_stone2"
+	"$surfaceprop" "plaster"
+}

@@ -1,0 +1,6 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$baseTexture" "sk3tch/romvent3"
+	"$surfaceprop" "metal"
+}

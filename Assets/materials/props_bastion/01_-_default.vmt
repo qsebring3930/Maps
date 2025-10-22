@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "props_bastion/Antiques_diff"
+	$bumpmap "props_bastion/Antiques_Nrms"
+	$envmapmask "props_bastion/Antiques_Spec"
+}

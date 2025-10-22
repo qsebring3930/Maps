@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_wasteland\dockpole01.vmt"
+}

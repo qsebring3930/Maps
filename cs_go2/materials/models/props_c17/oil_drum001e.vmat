@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_c17/oil_drum001e_color.tga"
+	"TextureNormal"		"materials/models/props_c17/oil_drum001a_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureDetail"		"materials/detail/noise_detail_01_detail.tga"
+	"g_vDetailTexCoordScale"		"[5.480000 5.480000]"
+	"g_flDetailBlendFactor"		"0.800000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_c17/Oil_Drum001e"
+			"$surfaceprop"		"metal"
+			"$bumpmap"		"Models/props_c17/Oil_Drum001a_normal"
+			"$detail"		"detail\noise_detail_01"
+			"$detailscale"		"5.480000"
+			"$detailblendfactor"		"0.800000"
+			"$detailblendmode"		"0"
+		}
+	}
+}

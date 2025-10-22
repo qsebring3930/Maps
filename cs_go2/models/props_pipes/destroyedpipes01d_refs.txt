@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_pipes\destroyedpipes01a.vmt"
+}
