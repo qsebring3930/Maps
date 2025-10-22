@@ -1,0 +1,33 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_FANCY_BLENDING"	"1"
+	"F_LAYERS"	"1"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vLayer2Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureBlendModulation"	"materials/nature/blend_texture_01_blend.png"
+	"TextureLayer1Color"	"materials/nature/ground_moss_aztec_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/default/default_normal.tga"
+	"TextureLayer1Roughness"	"materials/default/default_7be39f77_rough.png"
+	"TextureLayer2AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer2Color"	"materials/nature/dirt_ext_05_color.png"
+	"TextureLayer2Normal"	"materials/default/default_normal.tga"
+	"TextureLayer2Roughness"	"materials/default/default_7be39f77_rough.png"
+	"Compiled Textures"
+	{
+		"g_tBlendModulation"	"materials/nature/blend_texture_01_blend_tga_190be053.vtex"
+		"g_tColor"	"materials/nature/ground_moss_aztec_color_tga_dec0d924.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/default/default_normal_tga_7be39f77.vtex"
+		"g_tLayer2AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer2Color"	"materials/nature/dirt_ext_05_color_tga_5096bc54.vtex"
+		"g_tLayer2NormalRoughness"	"materials/default/default_normal_tga_7be39f77.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"concrete"
+		"PhysicsSurfaceProperties2"	"dirt"
+	}
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/de_reef/fishcrate_var1"
+	"$surfaceprop" "wood"
+}

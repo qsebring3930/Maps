@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/de_printing_house/serveur_01a"
+
+	"$bumpmap" "models/de_printing_house/serveur_01a_normal"
+
+	"$PhongExponentTexture" 	"models/de_printing_house/serveur_01a_spec"
+$phong 1
+$phongboost 2
+$phongfresnelranges "[1 0 0]"
+$phongexponent 80
+$basemapalphaphongmask 1
+$phongalbedotint 1
+$phongdisablehalflambert 1
+
+	$rimlight               1
+	$rimlightexponent       1
+	$rimlightboost          4
+}

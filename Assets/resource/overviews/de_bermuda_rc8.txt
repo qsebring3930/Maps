@@ -1,0 +1,7 @@
+"de_bermuda_rc8"
+{
+"material" "overviews/de_bermuda_rc8_radar"
+"pos_x" "-2467"
+"pos_y" "2151"
+"scale" "5"
+}

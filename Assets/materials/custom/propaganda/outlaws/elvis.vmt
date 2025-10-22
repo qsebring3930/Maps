@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/propaganda/outlaws/elvis"
+	"$surfaceprop" "glass"
+	"%keywords" "prop"
+                    "$envmap" "env_cubemap"
+                    "$envmaptint" "[.2 .2 .2]"
+}

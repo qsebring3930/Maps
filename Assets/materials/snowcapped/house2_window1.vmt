@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/house2_window1"
+	"$selfillum" 1
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/downtown/downtown_chandelier_a"
+	$selfillum 1
+	$surfaceprop glass
+	$envmap env_cubemap
+	//$translucent 1
+	//$alphatest 1
+	$envmaptint "[.6 .6 .6]"
+}

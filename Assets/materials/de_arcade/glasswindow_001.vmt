@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_arcade/glasswindow_001"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	$envmapsaturation ".9"
+	$envmapcontrast ".8"
+	$envmaptint "[.4 .4 .4]"
+}

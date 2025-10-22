@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/dev_generic"
+	"$surfaceprop" "concrete"
+}

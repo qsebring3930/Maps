@@ -1,0 +1,13 @@
+WorldVertexTransition
+{
+$basetexture "ground/snow01"
+$basetexture2 "concrete/blacktop_ext_04"
+$bumptransform "center .75 .75 scale .4 .4 rotate 0 translate 0 0"
+$bumpmap "concrete/pavement_height-ssbump"
+$ssbump 1
+$SSBumpMathFix 1
+$blendmodulatetexture "de_printing_house/snowblendtexture"
+$surfaceprop snow
+$surfaceprop2 concrete
+"%keywords" de_printing_house
+}

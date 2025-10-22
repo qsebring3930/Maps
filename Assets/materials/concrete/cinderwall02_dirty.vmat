@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/concrete/cinderwall02_dirty_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/concrete/cindmap02-ssbump_normal.png"
+	"TextureLayer1Roughness"	"materials/concrete/cindmap02-ssbump_de848098_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/concrete/cinderwall02_dirty_color_tga_801589f0.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/concrete/cindmap02-ssbump_normal_tga_de848098.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"concrete"
+	}
+}

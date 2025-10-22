@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/car2_red"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$envmapmask" "models\snowcapped/car2_mask"
+}

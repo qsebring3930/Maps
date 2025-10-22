@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/wall_end1_right"
+	"$decal" 1
+	"$translucent" 1
+}

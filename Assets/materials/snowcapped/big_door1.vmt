@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/big_door1"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.4 0.4]"
+	"$envmapmask" "snowcapped/big_door1_mask"
+}
+}

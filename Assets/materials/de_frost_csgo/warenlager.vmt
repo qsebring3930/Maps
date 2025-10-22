@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_frost_csgo/warenlager"
+	"$surfaceprop" "Default"
+	"%keywords" "lager de_frost_csgo frost b"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$decal" 1
+}

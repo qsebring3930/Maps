@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_milkcan"
+	"$model"	1
+	"$surfaceprop" "metal"
+}
+
+

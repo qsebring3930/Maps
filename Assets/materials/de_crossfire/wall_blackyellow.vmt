@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture "de_crossfire/wall_blackyellow"
+
+$surfaceprop concrete
+
+
+}

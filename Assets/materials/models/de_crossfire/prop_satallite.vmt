@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/prop_satallite"
+	"$surfaceprop" "metal"
+	"$selfillum" "1"
+	"$bumpmap"  "models/de_crossfire/prop_satallite_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" "1"
+	"$envmapsphere" "1"
+	"$model" "1"
+}

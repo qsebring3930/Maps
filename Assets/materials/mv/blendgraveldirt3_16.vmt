@@ -1,0 +1,19 @@
+"WorldVertexTransition"
+{
+      "$basetexture" "tramonto/ground1"
+
+
+//"%detailtype" "elpasograss16"
+   
+	"$detail" "Overlays\macro01a.vtf"
+	"$detailscale" .2
+ 
+   "$surfaceprop" "dirt"
+
+   "$basetexture2" "mv/redground3"
+
+   "%tooltexture" "mv/redground3"
+
+   //"$basetexturetransform2" "center 1 1 scale .5 .5 rotate 0  translate 0 0"
+   // "$basetexturetransform" "center .5 .5 scale 1.5 1.5 rotate 0 translate 0 0"
+} 

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/vec/logo_vec2"
+	"$normalmap" "decals/vec/logo_vec2_normal"
+	"$translucent" 1
+}

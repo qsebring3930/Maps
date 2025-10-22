@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/house4_detail"
+	"$selfillum" 1
+}

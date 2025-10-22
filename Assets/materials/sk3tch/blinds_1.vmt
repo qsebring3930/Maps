@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "sk3tch/blinds_1"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+
+}

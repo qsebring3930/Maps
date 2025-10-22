@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_stumpaxe"
+	"$surfaceprop"	"Wood_Solid"
+
+}
+
+

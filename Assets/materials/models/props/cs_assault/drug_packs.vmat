@@ -1,0 +1,18 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SPECULAR_INDIRECT"	"1"
+	"g_flCubeMapScalar"	"0.5"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureRoughness"	"[0.262500 0.262500 0.262500 1.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/cs_assault/drug_packs_color.png"
+	"TextureNormal"	"materials/models/props/cs_assault/drug_packs_vmat_g_tnormal_a5ea042e.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/cs_assault/drug_packs_color_tga_20792a0e.vtex"
+		"g_tMetalness"	"materials/models/props/cs_assault/drug_packs_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props/cs_assault/drug_packs_vmat_g_tnormal_a5ea042e.vtex"
+	}
+}

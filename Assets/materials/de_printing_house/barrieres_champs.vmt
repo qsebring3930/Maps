@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_printing_house/barrieres_champs"
+	"$surfaceprop" "metal"
+	"%keywords" "de_printing_house"
+	"$translucent" 1
+}

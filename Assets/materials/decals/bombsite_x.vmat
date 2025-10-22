@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_OVERLAY"	"1"
+	"F_TEXTURETRANSFORMS"	"0"
+	"F_TRANSLUCENT"	"1"
+	"F_VERTEX_COLOR"	"1"
+	"g_flAlphaTestReference"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/decals/bombsite_x_color.png"
+	"TextureLayer1Translucency"	"materials/decals/bombsite_x_27ced672_trans.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/default/default_normal.tga"
+	"TextureLayer1Roughness"	"materials/default/default_7be39f77_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/decals/bombsite_x_color_tga_27ced672.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/default/default_normal_tga_7be39f77.vtex"
+	}
+}

@@ -1,0 +1,8 @@
+"de_frost"
+{
+"material"  "overviews/de_frost"
+"pos_x"     "-2126"
+"pos_y"     "4324"
+"scale"     "5.30"
+"zoom"    "1.8"
+}

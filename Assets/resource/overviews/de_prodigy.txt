@@ -1,0 +1,7 @@
+"de_prodigy"
+{
+	"material"		"overviews/de_prodigy"
+	"pos_x"		"-487"
+	"pos_y"		"1823"
+	"scale"		"4.0"
+}

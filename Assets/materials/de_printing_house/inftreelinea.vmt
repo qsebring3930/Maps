@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+$basetexture "de_printing_house\inftreelinea"
+
+$alphatest 1
+$alphaTestReference ".35"
+}

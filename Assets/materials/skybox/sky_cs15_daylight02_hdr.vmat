@@ -1,0 +1,10 @@
+"Layer0"
+{
+	"shader"	"sky.vfx"
+	"F_TEXTURE_FORMAT2"	"1"
+	"SkyTexture"	"materials/skybox/sky_cs15_daylight02_hdr_cube.png"
+	"Compiled Textures"
+	{
+		"g_tSkyTexture"	"materials/skybox/sky_cs15_daylight02_hdr_cube_pfm_3baef777.vtex"
+	}
+}

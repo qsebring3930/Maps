@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+"$basetexture" "de_printing_house/mur_plaster"
+"$bumpmap" "de_printing_house/mur_plaster_normal"
+"$surfaceprop" "plaster"
+"%keywords" "de_printing_house"
+}

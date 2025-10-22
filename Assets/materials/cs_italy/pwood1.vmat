@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/cs_italy/pwood1_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/cs_italy/pwood1_normal.png"
+	"TextureLayer1Roughness"	"materials/cs_italy/pwood1_91cb8606_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/cs_italy/pwood1_color_tga_cb73a474.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/cs_italy/pwood1_normal_tga_91cb8606.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"wood_plank"
+	}
+}

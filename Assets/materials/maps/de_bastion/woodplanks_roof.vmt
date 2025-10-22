@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/de_bastion/woodplanks_roof"
+	"$surfaceprop" "Wood_Plank"
+	"%keywords" "de_bastion"
+}

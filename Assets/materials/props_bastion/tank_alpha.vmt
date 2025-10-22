@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "props_bastion/tex_AusfJ_SH_DIFFUSE"
+	$alphatest 1
+
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "props_bastion/tex_ax_stug_iv_tracks_SH_DIFFUSE"
+
+
+	 $translucent "1"
+}

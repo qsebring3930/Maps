@@ -1,0 +1,8 @@
+WorldVertexTransition
+{
+$basetexture "ground/snow01"
+$basetexture2 "concrete/rubble_floor_01"
+$blendmodulatetexture "de_printing_house/snowblendtexture"
+$surfaceprop snow
+$surfaceprop2 concrete
+}

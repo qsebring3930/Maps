@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/buildings/building_roof_01_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/buildings/building_roof_01_height-ssbump_normal.png"
+	"TextureLayer1Roughness"	"materials/buildings/building_roof_01_height-ssbump_bb5d6e39_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/buildings/building_roof_01_color_tga_c1a4ee68.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/buildings/building_roof_01_height-ssbump_normal_tga_bb5d6e39.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"plaster"
+	}
+}

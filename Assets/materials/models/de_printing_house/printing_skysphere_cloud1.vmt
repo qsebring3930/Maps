@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/de_printing_house/printing_skysphere_cloud1"
+	"$additive" 1
+	"$translucent" 1
+	"$selfillum" 1
+	"$nofog" "1"
+Proxies
+	{
+	
+
+		TextureScroll
+		{
+			textureScrollVar	$basetexturetransform
+			textureScrollRate	0.0035
+			 textureScrollAngle 145
+		}
+	}
+}

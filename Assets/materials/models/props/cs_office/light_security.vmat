@@ -1,0 +1,19 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SELF_ILLUM"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/cs_office/light_security_color.png"
+	"TextureNormal"	"materials/default/default_normal.tga"
+	"TextureRoughness"	"materials/default/default_7be39f77_rough.png"
+	"TextureSelfIllumMask"	"materials/models/props/cs_office/light_security_selfillum.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/cs_office/light_security_color_tga_e83ef113.vtex"
+		"g_tMetalness"	"materials/models/props/cs_office/light_security_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/default/default_normal_tga_7be39f77.vtex"
+		"g_tSelfIllumMask"	"materials/models/props/cs_office/light_security_selfillum_tga_c115fa21.vtex"
+	}
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "de_crossfire/glass_lit"
+	"$surfaceprop" "glass"
+	"$selfillum" "1"
+}

@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SPECULAR_INDIRECT"	"1"
+	"g_flCubeMapScalar"	"0.5"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props_junk/trashclusters01_color.png"
+	"TextureNormal"	"materials/models/props_junk/trashclusters01_specular_rough.png"
+	"TextureRoughness"	"materials/models/props_junk/trashclusters01_specular_rough_d3b92b1_rough.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props_junk/trashclusters01_color_tga_3e3dce93.vtex"
+		"g_tMetalness"	"materials/models/props_junk/trashclusters01_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props_junk/trashclusters01_specular_rough_tga_d3b92b1.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"default"
+	}
+}

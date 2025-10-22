@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_frost_csgo/explosive_sign"
+	"$surfaceprop" "Default"
+	"%keywords" "sign explosive de_frost_csgo frost boom"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$decal" 1
+}

@@ -1,0 +1,5 @@
+lightmappedgeneric
+{
+$baseTexture "maps/de_bastion/sewer_concretewall02b_nospec"
+$surfaceprop "concrete"
+}

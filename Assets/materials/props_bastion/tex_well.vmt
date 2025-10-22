@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "props_bastion/WellRoof_Diff"
+	$bumpmap "props_bastion/Well_Roof_Nrms"
+	$envmapmask "props_bastion/Wellroof_Spec"
+
+	$translucent "0"
+}

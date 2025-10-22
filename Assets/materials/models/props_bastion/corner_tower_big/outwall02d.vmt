@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "de_cbble/outwall02d"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_cbble/outwall02d_normal"
+	"%keywords" "cstrike"
+}

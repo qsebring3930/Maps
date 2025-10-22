@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_RENDER_BACKFACES"	"1"
+	"F_TRANSLUCENT"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props/de_aztec/grasstuft01_color.png"
+	"TextureTranslucency"	"materials/models/props/de_aztec/grasstuft01_2c0e9e48_trans.png"
+	"TextureNormal"	"materials/default/default_normal.tga"
+	"TextureRoughness"	"materials/default/default_7be39f77_rough.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props/de_aztec/grasstuft01_color_tga_2c0e9e48.vtex"
+		"g_tMetalness"	"materials/models/props/de_aztec/grasstuft01_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/default/default_normal_tga_7be39f77.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"wood"
+	}
+}

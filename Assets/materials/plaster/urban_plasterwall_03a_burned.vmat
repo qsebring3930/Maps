@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_DETAILBLENDMODE"	"0"
+	"F_DETAILTEXTURE"	"1"
+	"F_LAYERS"	"0"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1DetailScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"g_vLayer1DetailTintAndBlend"	"[1.000000 1.000000 1.000000 0.750000]"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/plaster/urban_plasterwall_03a_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Detail"	"materials/detail/detail_burned_color.png"
+	"TextureLayer1Normal"	"materials/plaster/urban_plasterwall_height-ssbump_normal.png"
+	"TextureLayer1Roughness"	"materials/plaster/urban_plasterwall_height-ssbump_5d8b1d_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/plaster/urban_plasterwall_03a_color_tga_42ec1cc8.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1Detail"	"materials/detail/detail_burned_color_tga_a2045b0.vtex"
+		"g_tLayer1NormalRoughness"	"materials/plaster/urban_plasterwall_height-ssbump_normal_tga_5d8b1d.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"plaster"
+	}
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$basetexture "de_printing_house\beton_route_exte"
+$surfaceprop concrete
+}

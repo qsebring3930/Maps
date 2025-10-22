@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_frost_csgo/feuerloescher_text_decal"
+	"$surfaceprop" "Default"
+	"%keywords" "lager de_frost_csgo frost b feuerloescher text"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$decal" 1
+}

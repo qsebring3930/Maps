@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_printing_house\nukfloorb"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "de_printing_house\nukfloorb_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "concrete"
+
+}

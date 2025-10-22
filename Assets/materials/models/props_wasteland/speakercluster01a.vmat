@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"csgo_vertexlitgeneric.vfx"
+	"F_SPECULAR_INDIRECT"	"1"
+	"TextureMetalness"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureColor"	"materials/models/props_wasteland/speakercluster01a_color.png"
+	"TextureNormal"	"materials/models/props_wasteland/speakercluster01a_rough.png"
+	"TextureRoughness"	"materials/models/props_wasteland/speakercluster01a_rough_c3f23205_rough.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tColor"	"materials/models/props_wasteland/speakercluster01a_color_tga_6905e215.vtex"
+		"g_tMetalness"	"materials/models/props_wasteland/speakercluster01a_vmat_g_tmetalness_b7e45cfc.vtex"
+		"g_tNormal"	"materials/models/props_wasteland/speakercluster01a_rough_tga_c3f23205.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"metal"
+	}
+}

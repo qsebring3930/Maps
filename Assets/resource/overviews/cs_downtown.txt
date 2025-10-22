@@ -1,0 +1,9 @@
+"cs_downtown"
+{
+	"material"	"overviews/cs_downtown"	// texture file
+	"pos_x"		"-3539"	// upper left world coordinate
+	"pos_y"		"3511"
+	"scale"		"6"
+	"rotate"	"0"
+	"zoom"		"1.5"
+}

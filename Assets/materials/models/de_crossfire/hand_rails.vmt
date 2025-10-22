@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/Hand_rails"
+	"$surfaceprop" "MetalPanel"
+}

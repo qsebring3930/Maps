@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "de_printing_house/degrade_skybox3d"
+	"$surfaceprop" "metal"
+	"%keywords" "de_printing_house"
+	"$translucent" 1
+	"$selfillum" 1
+
+}

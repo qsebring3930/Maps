@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"shader"	"csgo_lightmappedgeneric.vfx"
+	"F_LAYERS"	"0"
+	"F_SPECULAR_INDIRECT"	"1"
+	"F_TEXTURETRANSFORMS"	"0"
+	"g_vLayer1Tint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureLayer1Color"	"materials/de_dust/tilefloor02_color.png"
+	"TextureLayer1AmbientOcclusion"	"materials/default/default_ao.tga"
+	"TextureLayer1Normal"	"materials/de_dust/tilefloor02_normal.png"
+	"TextureLayer1Roughness"	"materials/de_dust/tilefloor02_a4aa2447_rough.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"materials/de_dust/tilefloor02_color_tga_a7eb8e45.vtex"
+		"g_tLayer1AmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+		"g_tLayer1NormalRoughness"	"materials/de_dust/tilefloor02_normal_tga_a4aa2447.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"tile"
+	}
+}

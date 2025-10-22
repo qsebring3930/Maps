@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture"	"snowcapped/snow01_tracks"
+	"$surfaceprop" "snow"
+
+}

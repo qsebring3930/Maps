@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "tramonto/ground1"
+	"$basetexture2" "mv/redground3"
+	
+	   "$bumpmap" "elpaso/wetmud_normal"
+	  "$bumpmap2" "mv/redground3_wet_normal"
+
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+
+	"$detail" "overlays/macro01a"
+	"$detailscale" .05   
+	 
+	"%tooltexture" "tramonto/ground1"
+} 

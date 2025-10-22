@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+"$basetexture" "de_printing_house/mur_accueil"
+"$bumpmap" "de_printing_house/mur_accueil_normal"
+"$surfaceprop" "plaster"
+"%keywords" "de_printing_house"
+
+"$normalmapalphaenvmapmask" 1
+"$envmap" "env_cubemap"
+"$envmaptint" "[ 0.2 0.2 0.2 ]"
+"$envmapcontrast" "0.1"
+"$envmapsaturation" "0.1"
+}

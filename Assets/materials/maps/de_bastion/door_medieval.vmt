@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/de_bastion/door_medieval"
+	"$surfaceprop" "wood"
+	"$bumpmap"     "maps/de_bastion/door_medieval_normal"
+	"%keywords" "de_bastion"
+}

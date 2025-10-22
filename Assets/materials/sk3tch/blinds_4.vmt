@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "sk3tch/blinds_4"
+	"$surfaceprop" "glass"
+                "$envmap" "env_cubemap"
+                "$envmaptint" "[.4 .4 .4]"
+                "$envmapcontrast" 0
+}

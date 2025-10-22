@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "snowcapped/supermarkt_window_indoor"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$envmapmask" "snowcapped/supermarkt_window_indoor_mask"
+}

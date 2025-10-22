@@ -1,0 +1,11 @@
+WorldVertexTransition
+{
+$basetexture "nature/dirtfloor011a"
+$basetexture2 "ground/snow01"
+
+$envmapmask "ground\snow01_envmask"
+$surfaceprop concrete
+$surfaceprop2 dirt
+$blendmodulatetexture "de_printing_house/snowblendtexture"
+//$blendmodulatetexture "ground/office_snow_blacktop_blendmod"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\snowcapped/house2_door1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.4 0.4]"
+	"$envmapmask" "models\snowcapped/house2_door1_mask"
+}

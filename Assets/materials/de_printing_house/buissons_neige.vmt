@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 		"de_printing_house/buissons_neige"
+	"$surfaceprop" 		"grass"
+	"%keywords" 		"de_printing_house"
+	"$translucent" 		1
+}

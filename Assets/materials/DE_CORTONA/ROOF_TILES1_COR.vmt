@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_cortona/roof_tiles1_cor"
+	"$surfaceprop" "tile"
+	"$bumpmap" "de_cortona/roof_tiles1_cor_n"
+}

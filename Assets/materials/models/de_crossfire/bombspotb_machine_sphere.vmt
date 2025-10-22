@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/de_crossfire/bombspotB_machine"
+	"$surfaceprop" "glass"
+	"$bumpmap"  "models/de_crossfire/bombspotB_machine_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" "0"
+	"$envmapsphere" "1"
+	"$model" "1"
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "de_printing_house/metalwall002"
+"%keywords" "de_printing_house"
+"$bumpmap" "cs_assault/metalwall002_normal"
+$surfaceprop metal
+}

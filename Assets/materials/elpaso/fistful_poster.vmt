@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "elpaso/fistful_poster"
+	"$decal" "1"
+	"$decalscale" "0.05"
+
+	"$translucent" 1
+	"$nolod" "1"
+}

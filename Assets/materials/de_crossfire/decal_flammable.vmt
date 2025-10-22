@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "de_crossfire/decal_flammable"
+	"$decal" 1
+	"$translucent" 1
+}
