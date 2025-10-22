@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_train\utility_truck.vmt"
+	"file"	"materials\models\props\de_train\truck001c_01.vmt"
+}

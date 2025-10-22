@@ -1,0 +1,25 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/models/props_foliage/tree_deciduous_01a_leaves2_color.tga"
+	"TextureTranslucency"		"materials/models/props_foliage/tree_deciduous_01a_leaves2_trans.tga"
+	"g_flAlphaTestReference"		"0.500000"
+	"F_BLEND_MODE"		"2"
+	"F_RENDER_BACKFACES"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood"
+	}
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$alphatest"		"1"
+			"$basetexture"		"models/props_foliage/tree_deciduous_01a_leaves2"
+			"$model"		"1"
+			"$nocull"		"1"
+			"$surfaceprop"		"wood"
+		}
+	}
+}

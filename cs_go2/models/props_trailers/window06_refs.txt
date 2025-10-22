@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_trailers\windows05to08.vmt"
+}

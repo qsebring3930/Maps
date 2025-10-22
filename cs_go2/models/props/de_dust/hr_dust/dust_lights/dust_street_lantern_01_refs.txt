@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_lights\street_lantern_01\street_lantern_01_color.vmt"
+}

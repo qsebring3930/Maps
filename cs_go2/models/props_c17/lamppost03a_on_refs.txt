@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_c17\lamppost03a_glow.vmt"
+	"file"	"materials\models\props_c17\lamppost03a.vmt"
+}

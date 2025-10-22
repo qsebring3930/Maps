@@ -1,0 +1,20 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/decals/offseclight_color.tga"
+	"F_VERTEX_COLOR"		"1"
+	"F_BLEND_MODE"		"4"
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$basetexture"		"decals\offseclight"
+			"$additive"		"1"
+			"$decal"		"1"
+			"$decalscale"		"0.250000"
+			"$vertexcolor"		"1"
+			"$vertexalpha"		"1"
+		}
+	}
+}

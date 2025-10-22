@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\firehydrant.vmt"
+	"file"	"materials\models\props\cs_assault\chain.vmt"
+}

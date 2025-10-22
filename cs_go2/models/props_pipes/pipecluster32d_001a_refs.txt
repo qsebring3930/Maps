@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_pipes\pipeset_metal02.vmt"
+	"file"	"materials\models\props_pipes\pipeset_metal.vmt"
+}

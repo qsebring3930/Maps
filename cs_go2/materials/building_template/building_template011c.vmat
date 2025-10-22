@@ -1,0 +1,33 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/building_template/building_template011c_color.tga"
+	"g_flCubeMapScalar"		"0.600000"
+	"TextureLayer1Roughness"		"materials/building_template/building_template011c_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"Building_Template/Building_Template011c"
+			"$surfaceprop"		"concrete"
+			"$envmap"		"env_cubemap"
+			"$basealphaenvmapmask"		"1"
+			"$envmapcontrast"		"1"
+			"$envmapsaturation"		"1"
+			"$envmaptint"		"[ .6 .6 .6]"
+			"LightmappedGeneric_DX8"
+			{
+				"$envmaptint"		"[.2 .2 .2]"
+			}
+		}
+	}
+}

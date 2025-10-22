@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_prodigy\wood_pallet_01.vmt"
+	"file"	"materials\models\props\de_prodigy\concretebags.vmt"
+	"file"	"materials\models\props\de_prodigy\concretebags_ru.vmt"
+}

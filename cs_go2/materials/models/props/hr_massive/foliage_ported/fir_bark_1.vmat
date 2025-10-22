@@ -1,0 +1,32 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/hr_massive/foliage_ported/fir_bark_1_color.tga"
+	"TextureNormal"		"materials/models/props/hr_massive/foliage_ported/fir_bark_1_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\hr_massive\foliage_ported\fir_bark_1"
+			"$bumpmap"		"models\props\hr_massive\foliage_ported\fir_bark_1_normal"
+			"$treeSway"		"1"
+			"$treeSwayHeight"		"256"
+			"$treeSwayStartHeight"		"0.600000"
+			"$treeSwayRadius"		"96"
+			"$treeSwayStartRadius"		"0.100000"
+			"$treeSwaySpeed"		"0.200000"
+			"$treeSwayStrength"		"0.600000"
+			"$treeSwayScrumbleSpeed"		"0.200000"
+			"$treeSwayScrumbleStrength"		"0.600000"
+			"$treeSwayScrumbleFrequency"		"2"
+			"$treeSwayFalloffExp"		"64"
+			"$treeSwayScrumbleFalloffExp"		"64"
+			"$treeSwaySpeedHighWindMultiplier"		"0"
+			"$treeSwaySpeedLerpStart"		"200.000000"
+			"$treeSwaySpeedLerpEnd"		"600.000000"
+		}
+	}
+}

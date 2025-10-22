@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\bicycle01a.vmt"
+	"file"	"materials\models\props_junk\bicycle02a.vmt"
+	"file"	"materials\models\props_junk\bicycle03a.vmt"
+}

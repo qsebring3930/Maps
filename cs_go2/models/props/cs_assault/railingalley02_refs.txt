@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\metal_stairs2.vmt"
+	"file"	"materials\models\props\cs_assault\metal_stairs1.vmt"
+	"file"	"materials\models\props\cs_assault\railingtraintrack.vmt"
+}

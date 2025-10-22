@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"[1.000000 1.000000 1.000000 1.000000]"
+	"F_BLEND_MODE"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$basetexture"		"Lights/White002"
+			"$selfillum"		"1"
+			"$surfaceprop"		"glass"
+			"$reflectivity"		"[0 0 0]"
+			"$nodecal"		"1"
+		}
+	}
+}

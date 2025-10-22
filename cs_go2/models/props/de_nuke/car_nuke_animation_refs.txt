@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_nuke\car_nuke_animation.vmt"
+	"file"	"materials\models\props\de_nuke\truck_nuke.vmt"
+	"file"	"materials\models\props\de_nuke\car_nuke_animation_red.vmt"
+	"file"	"materials\models\props\de_nuke\car_nuke_animation_black.vmt"
+}

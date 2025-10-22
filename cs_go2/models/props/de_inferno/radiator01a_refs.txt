@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\radiator01a.vmt"
+	"file"	"materials\models\props\de_inferno\radiator01b.vmt"
+	"file"	"materials\models\props\de_inferno\radiator01c.vmt"
+}

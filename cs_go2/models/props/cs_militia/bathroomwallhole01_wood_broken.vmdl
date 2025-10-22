@@ -1,0 +1,214 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BreakPieceList"
+				children = 
+				[
+					{
+						_class = "BreakPieceExternal"
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						sound_event_on_spawn = ""
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						collision_group = "default"
+						offset = [ 0.0, 0.0, 0.0 ]
+						offset_rotation = [ 0.0, 0.0, 0.0 ]
+						fadetime = 0.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+						physics_joint_modification_type = "none"
+						model = "models/props/cs_militia/bathroomwallhole01_wood_broken_01.vmdl"
+						force_motion_disabled = true
+						health_override = 100
+					},
+					{
+						_class = "BreakPieceExternal"
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						sound_event_on_spawn = ""
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						collision_group = "default"
+						offset = [ 0.0, 0.0, 0.0 ]
+						offset_rotation = [ 0.0, 0.0, 0.0 ]
+						fadetime = 10.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+						physics_joint_modification_type = "none"
+						model = "models/props/cs_militia/bathroomwallhole01_wood_broken_02.vmdl"
+						force_motion_disabled = false
+						health_override = 100
+					},
+					{
+						_class = "BreakPieceExternal"
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						sound_event_on_spawn = ""
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						collision_group = "default"
+						offset = [ 0.0, 0.0, 0.0 ]
+						offset_rotation = [ 0.0, 0.0, 0.0 ]
+						fadetime = 10.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+						physics_joint_modification_type = "none"
+						model = "models/props/cs_militia/bathroomwallhole01_wood_broken_03.vmdl"
+						force_motion_disabled = false
+						health_override = 100
+					},
+					{
+						_class = "BreakPieceExternal"
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						sound_event_on_spawn = ""
+						spawn_entity = "prop_physics"
+						ragdoll_applies_bind_pose_root = false
+						collision_group = "default"
+						offset = [ 0.0, 0.0, 0.0 ]
+						offset_rotation = [ 0.0, 0.0, 0.0 ]
+						fadetime = 10.0
+						fade_min_dist = 0.0
+						fade_max_dist = 0.0
+						name_mode = "none"
+						random_spawn_chance = 1.0
+						suppress_creation_on_death = false
+						is_essential_piece = false
+						can_player_pickup_piece = false
+						render_color_mode = "inherit_owner"
+						material_group_mode = "inherit_owner_name"
+						physics_joint_modification_type = "none"
+						model = "models/props/cs_militia/bathroomwallhole01_wood_broken_04.vmdl"
+						force_motion_disabled = false
+						health_override = 100
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							base = "Wooden.Medium"
+							allowstatic = false
+							bakelighting = true
+							damage_table = ""
+							dmg.bullets = -1.0
+							dmg.club = -1.0
+							dmg.explosive = -1.0
+							dmg.fire = -1.0
+							health = -1.0
+							spawn_motion_disabled = false
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 100.0
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "BathroomWallHole01_Wood_REF_0_mesh"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_prop = "default"
+						tool_material = ""
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/cs_militia/bathroomwallhole01_wood_broken_refs/phys/bathroomwallhole01_wood_broken_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"BathroomWallHole01_Wood_REF_0_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "bathroomwallhole01_wood_broken_bg_body_lod0"
+						filename = "/models/props/cs_militia/bathroomwallhole01_wood_broken_refs/mesh/bathroomwallhole01_wood_broken_bg_body_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

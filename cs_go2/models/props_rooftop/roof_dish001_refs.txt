@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_rooftop\roof_dish001.vmt"
+}

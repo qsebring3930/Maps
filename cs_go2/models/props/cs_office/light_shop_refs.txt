@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_lighting\light_shop.vmt"
+	"file"	"materials\models\props_lighting\light_shop_off.vmt"
+}

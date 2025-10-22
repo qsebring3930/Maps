@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\light_outsidewall.vmt"
+	"file"	"materials\models\props\cs_office\light_outsidewall_off.vmt"
+}

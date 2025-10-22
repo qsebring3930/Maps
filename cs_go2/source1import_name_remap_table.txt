@@ -1,0 +1,9 @@
+"name_remap_table"
+{
+	"src2filenamechange"
+	{
+		"maps\de_snowcapped_d_prefab.vmap"		"maps\de_snowcapped_d.vmf"
+		"maps\de_snowcapped_csgo_d_prefab.vmap"		"maps\de_snowcapped_csgo_d.vmf"
+		"maps\de_cityfever_csgo_d_prefab.vmap"		"maps\de_cityfever_csgo_d.vmf"
+	}
+}

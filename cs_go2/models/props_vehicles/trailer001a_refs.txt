@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_vehicles\trailer001a_01.vmt"
+}

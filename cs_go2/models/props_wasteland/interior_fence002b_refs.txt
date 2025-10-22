@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_wasteland\prison_yard001.vmt"
+	"file"	"materials\models\props_wasteland\fence_alpha.vmt"
+}

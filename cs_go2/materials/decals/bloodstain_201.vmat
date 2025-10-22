@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/decals/bloodstain_201_color.tga"
+	"TextureTranslucency"		"materials/decals/bloodstain_201_trans.tga"
+	"F_BLEND_MODE"		"1"
+	"legacy_import"
+	{
+		"UnlitGeneric"
+		{
+			"$translucent"		"1"
+			"$basetexture"		"Decals/bloodstain_201"
+			"$decal"		"1"
+			"$envmap"		"env_cubemap"
+			"$envmaptint"		"[.9 .6 0.2]"
+			"$envmapmask"		"Decals/bloodstain_201m"
+			"$decalscale"		"0.250000"
+		}
+	}
+}

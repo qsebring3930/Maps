@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\streetlight.vmt"
+	"file"	"materials\models\props\cs_assault\streetlight_on.vmt"
+}
